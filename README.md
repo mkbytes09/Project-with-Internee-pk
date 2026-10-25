@@ -16,8 +16,7 @@ Endpoint-Security-Monitoring/
 │   ├── 01-wazuh-agent-active.png
 │   ├── 02-sysmon-event.png
 │   ├── 03-fim-sha256-event.png
-│   ├── 04-Screen Recording-01
-│   ├── 05-Screen Recording-03
+│   ├── 04-windows-security-event
 └── rules/
     └── README.md
 ```
