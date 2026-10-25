@@ -5,17 +5,21 @@ A central portfolio repository for documenting and showcasing projects completed
 ## Repository structure
 
 ```text
-Project-with-Internee.pk/
+Endpoint-Security-Monitoring/
 ├── README.md
-├── TASK-REPORT-TEMPLATE.md
-└── Endpoint-Security-Monitoring/
-    ├── README.md
-    ├── reports/
-    │   └── threat-intelligence-integration.md
-    ├── rules/
-    │   └── README.md
-    └── evidence/
-        └── README.md
+├── reports/
+│   ├── threat-intelligence-integration.md
+│   ├── Endpoint-Security-Monitoring-Report.docx
+│   └── Endpoint-Security-Monitoring-Report.pdf
+├── evidence/
+│   ├── README.md
+│   ├── 01-wazuh-agent-active.png
+│   ├── 02-sysmon-event.png
+│   ├── 03-fim-sha256-event.png
+│   ├── 04-Screen Recording-01
+│   ├── 05-Screen Recording-03
+└── rules/
+    └── README.md
 ```
 
 ## Projects
