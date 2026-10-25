@@ -69,11 +69,6 @@ Place sanitized screenshots in the task's `evidence/` directory and link them be
 - `../evidence/01-wazuh-agent-active.png` — Active Windows agent
 - `../evidence/02-sysmon-event.png` — Sysmon event visible in Wazuh
 - `../evidence/03-fim-sha256-event.png` — FIM event with a SHA-256 field
-- `../evidence/04-indicator-list.png` — Local indicator list
-- `../evidence/05-custom-rule.png` — Custom rule configuration
-- `../evidence/06-rule-100500-alert.png` — Alert for custom rule ID `100500`
-
-These are suggested filenames; replace them with your actual screenshot filenames.
 
 ## 7. Limitations
 
