@@ -18,8 +18,6 @@ Implement endpoint monitoring to collect Windows endpoint telemetry, monitor fil
 - **File integrity monitoring:** Monitored lab directory
 - **Threat-intelligence test:** Local SHA-256 indicator list and custom Wazuh rule
 
-> Before publishing, review screenshots and configuration for internal IP addresses, usernames, tokens, or other details you do not want public.
-
 ## Implemented components
 
 1. Wazuh manager and dashboard deployment.
@@ -35,17 +33,6 @@ Implement endpoint monitoring to collect Windows endpoint telemetry, monitor fil
 - [Custom rules folder notes](./rules/README.md)
 - [Evidence folder notes](./evidence/README.md)
 
-## Evidence checklist
-
-Add sanitized screenshots to `evidence/` and link them in the report:
-
-- Wazuh dashboard and active agent
-- Sysmon event visible in Wazuh
-- Windows Security event visible in Wazuh
-- FIM event with file path and SHA-256 field
-- Local indicator list (redact anything sensitive)
-- Custom rule configuration
-- Alert for custom rule ID `100500`
 
 ## Important scope limitation
 
